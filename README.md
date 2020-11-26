@@ -4,7 +4,7 @@
  - Optimized the VHO Decision Phase using Fuzzy Logic Techniques.
  - Both optimizations were focused on conserving user power levels in LTE/WLAN HetNet environments.
 
-**IEEE Xplore link: **
+**IEEE Xplore link:** 
 https://ieeexplore.ieee.org/document/9231055
 
 <img src="images/gucon1.PNG">
